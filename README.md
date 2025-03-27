@@ -65,6 +65,53 @@ javac -d bin -cp src src/main/Main.java src/model/Book.java src/service/LibraryS
 ```sh
 java -cp bin main.Main
 ```
+##  How to Run the Library Management System JAR File
+
+### **1️⃣ Download the JAR File**
+1. Click the **JAR file link** provided in the email or GitHub repository.
+2. Press **"Download"** and save the file to your **Desktop** or **Downloads** folder.
+
+### **2️⃣ Open Command Prompt (CMD)**
+1. Press **`Win + R`**, type `cmd`, and hit **Enter**.
+2. A black Command Prompt window will open.
+
+### **3️⃣ Navigate to the Folder Where You Saved the JAR File**
+- If you saved it in the **Downloads** folder, enter:
+  ```sh
+  cd C:\Users\YourUsername\Downloads
+  ```
+- If you saved it on the **Desktop**, enter:
+  ```sh
+  cd C:\Users\YourUsername\Desktop
+  ```
+*(Replace `YourUsername` with your actual Windows username.)*
+
+### **4️⃣ Run the JAR File**
+Enter the following command:
+```sh
+java -jar LibraryManagementSystem.jar
+```
+
+### **5️⃣ The Library Management System Should Now Run!**
+
+If you face any issues, please ensure that **Java is installed** on your system. You can check by running:
+```sh
+java -version
+```
+If Java is not installed, download it from: [Java Download](https://www.oracle.com/java/technologies/javase-downloads.html)
+
+For any further assistance, feel free to reach out!
+
+---
+
+###  **GitHub Repository**
+🔗 [Library Management System - GitHub](https://github.com/Akhilapatel25/Library-Management-System--JAVA)
+
+###  **Download JAR File**
+🔗 [Library Management System - JAR File](https://drive.google.com/file/d/1Lgkp68m8ECgyByataSmq3V4Z5RNbcOom/view?usp=drive_link)
+
+
+
 
 ## Assumptions
 
